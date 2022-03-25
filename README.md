@@ -1,4 +1,4 @@
-art-quiz
+art-quiz https://adzinetskatsiaryna.github.io/art-quize/
 ArtQuiz - приложение-викторина на знание шедевров живописи и их авторов.
 
 Ключевые навыки:
